@@ -1,0 +1,28 @@
+#topjumbo{
+    background-size: cover;
+    height: 100%;
+    min-height: 300px;
+    color: white;
+    border-radius: 0 !important;
+}
+
+#jumboText{
+    display: flexbox;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.card .Text{
+    color: black;
+}
+
+
+.CardDeck{
+    padding-left: 15px;
+    padding-right:15px;
+}
+
+#siteHeader{
+    text-shadow: 2px 2px black;
+}
+

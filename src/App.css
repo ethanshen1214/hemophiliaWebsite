@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #344a6b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,8 +24,17 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#footer{
+  margin-top: 5%;
+  margin-bottom: 0;
+  text-align: center;
+  color:white;
+  background-color: #344a6b;
+  border-radius: 0 !important;
+}
+.color-nav{
+  height: 100px;
+  background-color: #344a6b;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +44,27 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.white-text {
+  color: #FFFFFF;
+}
+
+.pagination {
+  margin-top: 25px;
+}
+
+.pagination span {
+cursor: pointer;
+color: black;
+padding: 8px 16px;
+text-decoration: none;
+transition: background-color .3s;
+border: 1px solid #ddd;
+}
+
+.pagination span.active {
+background-color: #0099FF;
+color: white;
+border: 1px solid #0099FF;
 }
