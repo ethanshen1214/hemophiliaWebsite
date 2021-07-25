@@ -47,18 +47,23 @@ export default class Home extends Component {
                                 In addition to these main technologies, we also used React-Bootstrap to integrate the bootstrap library 
                                 with our front end as well as Axios to make API calls to our Flask server.<br/><br/>
 
-                                <b>Stack Technologies:</b><br/>
+                                <b>Hemophilia A:</b><br/>
                                 ReactJS - JavaScript library that simplifies UI development and runs more efficiently by utilizing a virtual DOM and components.<br/>
                                 Flask - Python microframework made for building web servers.<br/>
                                 MongoDB - NoSQL database that uses JSON-like notation. It is lightweight and easily scalable.<br/><br/>
                                 
-                                <b>Additional Technologies:</b><br/>
-                                React-Bootstrap - A CSS library that simplifies styling components. Specifically adapted to work with ReactJS.<br/>
-                                Axios - A tool for making API calls from a React app.<br/><br/>
+                                <b>Hemophilia B:</b><br/>
+                                Hemophilia B, also called factor IX (FIX) deficiency or Christmas disease, is a genetic disorder caused by missing or defective factor IX, a clotting protein. Although it is passed down from parents to children, about 1/3 of cases are caused by a spontaneous mutation, a change in a gene.
+<br/><br/>
+According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. There are about 20,000 people with hemophilia in the US. All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.<br/><br/>
                                 
-                                <b>Github:</b><br/>
+                                <b>Von Willebrand disease:</b><br/>
                                 We used Github to share and collaborate on code and maintain version control. <br/>
                                 The repository can be found here: <a href="https://github.com/UT-SWLab/TeamE1">https://github.com/UT-SWLab/TeamE1</a>
+                            
+                                <b>Other clotting factor deficiencies:</b><br/>
+
+                                <b>Congenital platelet disorders:</b><br/>
                             </p>
                             <br/>
                             <h2>Data Sources</h2>
@@ -73,63 +78,170 @@ export default class Home extends Component {
                         </Tab>
                         <Tab eventKey="theTeam" title="The Team">
                             <br/>
-                            <h2>Team E1</h2><br/>
-                            <h2>Group Members</h2>
+                            
+                            <h2>Meet The Team</h2>
+                            <br/>
                             <Row>
                                 <Col>
-                                    <img alt="" src = 'https://i.pinimg.com/564x/0b/b2/1e/0bb21e1b4b2f688694980fa2fb8656b5.jpg' width="200" />
-                                    
-                                    <h4>Ethan Shen</h4>
-                                    <p>ECE Major, Software Engineering<br/><a href="mailto:ethanshen1214@gmail.com">ethanshen1214@gmail.com</a></p>
-                                    <p>
-                                        Ethan is a sophomore Electrical and Computer Engineering student at the University of Texas at Austin.  
-                                        Born and raised in Plano, Ethan is a true Texan at heart.
-                                        Aside from coding, playing instruments, and two stepping, 
-                                        you can often find him in the workshop building/repairing things or spending time exploring the outdoors.
-                                    </p>
+                                    <img alt="" src = '/bat-taha.jpg' width="200" />
+                                     
+                                    <h4>Taha Bat, M.D.</h4>
+                                    <p><br/><a href="https://utswmed.org/request-appointment/9111/taha-bat/">Request an Appointment</a></p>
+                                     
                                 </Col>
                                 <Col>
-                                    <img alt="" src = 'https://i.pinimg.com/originals/6a/7a/10/6a7a1065e3d5040c3de007ac9392057e.jpg' width="200"/>
-                                    
-                                    <h4>Tyler Kapadia</h4>
-                                    <p>ECE Major, Software Engineering<br/><a href="mailto:tyler@fastram.com">tyler@fastram.com</a></p>
                                     <p>
-                                        Hello, my name is Tyler! I am a Junior ECE Student from Dallas, TX. 
-                                        I am experienced with Python and Data Visualization Software (Power BI)! Some random bullshit. 
-                                        One interesting fact about me is that I love to cook and try new recipes.
-                                    </p>
-                                </Col>
-                                <Col>
-                                    <img alt="" src = 'https://i.pinimg.com/originals/26/6c/a2/266ca21b8b62e353632f59aa9b1ce66d.jpg' width="200"/>
-                                    
-                                    <h4>Alexander Liu</h4>
-                                    <p>ECE Major, Software Engineering<br/><a href="mailto:liu.alexander.22@gmail.com">liu.alexander.22@gmail.com</a></p>
-                                    <p>
-                                        Hi! I’m Alex, a junior ECE student from South Texas. 
-                                        In my free time, I enjoy venture capital work, playing 8-ball pool, 
-                                        and spending an unhealthy amount of money on clothes.
-                                    </p>
-                                
-                                </Col>
-                                <Col>
-                                    <img alt="" src = 'https://i.pinimg.com/originals/47/25/37/47253733d235b71a604c7904e587065b.jpg' width="200"/>
-                                    
-                                    <h4>Matteo Agius-D'Arrigo</h4>
-                                    <p>ECE Major, Software Engineering<br/><a href="mailto:magius@utexas.edu">magius@utexas.edu</a></p>
-                                    <p>
-                                        Matteo is a junior Electrical and Computer Engineering major at the University of Texas at Austin
-                                        focusing on software engineering and design. He loves all things sports, 
-                                        and you will often find him on the field with the UT Austin Men's soccer team.
+                                    Taha Bat, M.D., is an Assistant Professor in the Department of Internal Medicine at UT Southwestern Medical Center. He specializes in bone marrow failure syndromes, clonal hematopoiesis, platelet disorders, and cancer-related venous thromboembolism (VTE).
+
+Dr. Bat earned his medical degree at Hacettepe University in Turkey and completed a residency in internal medicine at Western Reserve Health Education. He received advanced training in bone marrow syndromes through a fellowship at the Cleveland Clinic Foundation and in hematology and oncology through a fellowship at the University at Buffalo/Roswell Park Comprehensive Cancer Center.
+
+He joined the UT Southwestern faculty in 2020.
+
+Dr. Bat is Associate Editor of the Open Access Blood Research Transfusion Journal. He is a member of several professional organizations, including the American Society of Clinical Oncology and the American Society of Hematology. In 2016, he was awarded the Edward P. Evans Fellowship Scholarship.
+
+He has published numerous academic articles.
                                     </p>
                                 </Col>
                             </Row>
-                            <h2>Responsibilities</h2>
-                            <p>
-                                Ethan: Backend, Frontend<br/>
-                                Tyler: UI Development, PM<br/>
-                                Alex: Backend, API, and Frontend Development<br/>
-                                Matteo: Backend, frontend, database design<br/>
-                            </p>
+                            <br/>
+                            <hr></hr>
+                            <br/>
+                            <Row>
+                                <Col>
+                                    <p>
+                                    Sandra L. Hofmann, M.D., Ph.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center. She specializes in hematology and oncology.
+
+Dr. Hofmann earned her medical degree and a doctoral degree in molecular biology at Washington University in St. Louis, where she also performed her residency in internal medicine and a fellowship in hematology and oncology. She received advanced training in molecular genetics through a postdoctoral fellowship at UT Southwestern.
+
+Certified by the American Board of Internal Medicine, Dr. Hofmann joined the UT Southwestern faculty in 1989.
+
+Dr. Hofmann’s research interests focus on the metabolism of proteins that are modified by lipids. Her laboratory has conducted pioneering work that has led to a greater understanding of a group of hereditary brain disorders known as the neuronal ceroid lipofuscinoses (NCL, or Batten disease).
+
+She is a member of the American Association for the Advancement of Science, the Association of American Physicians, the American Society for Biochemistry and Molecular Biology, the American Society for Clinical Investigation, and the American Society of Hematology.
+                                    </p>
+                                </Col>
+                                <Col >
+                                    <div className="text-right">
+                                        <img alt="" src = '/hofmann-sandra.jpg' width="200"/>
+                                         
+                                        <h4>Sandy Hofmann, M.D., Ph.D.</h4>
+                                        <p><br/><a href=""></a></p>
+                                    </div>
+                                    
+                                    
+                                </Col>
+                            </Row>
+                            <br/>
+                            <hr></hr>
+                            <br/>
+                            <Row>
+                                <Col>
+                                    <img alt="" src = '/ibrahim-ibrahim.jpg' width="200"/>
+                                    
+                                    <h4>Ibrahim Ibrahim, M.D.</h4>
+                                    <p><br/><a href="https://utswmed.org/request-appointment/5937/ibrahim-ibrahim/">Request an Appointment</a></p>
+                                </Col>
+                                <Col>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                </Col>
+                            </Row>
+                            <br/>
+                            <hr></hr>
+                            <br/>
+                            <Row>
+                                <Col>
+                                Dr. Rambally is originally from Canada, but has called Dallas her home for many years. She received her B.S. in Biochemistry from Southern Methodist University in Dallas, and then went on to medical school at UT Southwestern Medical Center (UTSW). She completed her hematology and medical oncology fellowship at Baylor College of Medicine in Houston, where she developed a strong background in general medical oncology, benign and malignant hematology. 
+
+She was drawn back to UTSW because she enjoys teaching, has an interest in research, and wants to be a part of the long-standing academic excellence which has been a tradition at UTSW. She currently specializes in benign and malignant hematologic disorders. Her clinical practice emphasizes patient and family-centered care. 
+
+She was included in D Magazine's Best Doctors list for 2018.
+                                </Col>
+                                <Col>
+                                    <div className="text-right">
+                                        <img alt="" src = '/rambally-siayareh.jpg' width="200"/>
+                                        
+                                        <h4>Siayareh Rambally, M.D.</h4>
+                                        <p><br/><a href="https://utswmed.org/request-appointment/1949/siayareh-rambally/">Request an Appointment</a></p>
+                                    </div>
+                                    
+                                </Col>
+
+                            </Row>
+                            <br/>
+                            <hr></hr>
+                            <br/>
+                            <Row>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Yu-Min Shen, M.D.</h4>
+                                    <p><br/><a href="https://utswmed.org/request-appointment/1522/yu-shen/">Request an Appointment</a></p>
+                                </Col>
+                                <Col>
+                                Yu-Min Shen, M.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center.
+
+Recognized as the regional expert in coagulation disorders, Dr. Shen is a nonmalignant hematologic disorders specialist whose areas of clinical expertise include bleeding and clotting disorders, hemostasis, and thrombosis.
+
+He serves as Chair of the Pharmacy and Therapeutic Committee’s Anticoagulation Subcommittee at both UT Southwestern and Parkland Hospital, and as Associate Director of the Hematology and Oncology Fellowship Program.
+
+A Fellow of the American College of Physicians, Dr. Shen emigrated from Taiwan as a teenager. He is American Board of Internal Medicine certified in internal medicine, hematology, and oncology.
+
+Dr. Shen was recognized for his excellence as an educator with UT Southwestern’s 2011 Eugene P. Frenkel Outstanding Teacher of the Year Award.
+
+He joined the UT Southwestern faculty in 2004.
+
+Dr. Shen has delivered a number of invited lectures internationally, nationally, and regionally and published more than 20 scholarly articles, chapters, reviews, and case reports. He serves as an ad hoc reviewer for the Journal of Clinical Oncology.
+
+He is a member of professional organizations that include the American Society of Hematology, International Society on Thrombosis and Haemostasis, and Hemophilia and Thrombosis Research Society.
+
+Dr. Shen earned his medical degree at the University of California, San Diego School of Medicine. He completed both an internal medicine residency and a hematology/ oncology fellowship at UT Southwestern.
+
+He also holds a B.S. degree, with honors, in biological sciences from Stanford University.
+                                </Col>
+                            </Row>
+                            <br/>
+                            <hr></hr>
+                            <br/>
+                            <Row>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Tracy Bonebrake, RN, CPHON</h4>
+                                    <p><br/><a href=""></a></p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Diane Simsuangco, RN</h4>
+                                    <p><br/><a href=""></a></p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Katherine Lipsky</h4>
+                                    <p><br/><a href=""></a></p>
+                                </Col>
+                            </Row>
+                            <Row>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Samantha Frost and colleagues</h4>
+                                    <p><br/><a href=""></a></p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Phillip Escarsega</h4>
+                                    <p><br/><a href=""></a></p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    
+                                    <h4>Debra Harvey</h4>
+                                    <p><br/><a href=""></a></p>
+                                </Col>
+                            </Row>
                         </Tab>
                         <Tab eventKey="location" title="Location">
                             <br/>

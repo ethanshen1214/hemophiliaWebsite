@@ -26,3 +26,7 @@
     text-shadow: 2px 2px black;
 }
 
+.justify-right{
+    justify-content: right;
+}
+
