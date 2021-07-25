@@ -64,16 +64,10 @@ According to the US Centers for Disease Control and Prevention, hemophilia occur
                                 <b>Other clotting factor deficiencies:</b><br/>
 
                                 <b>Congenital platelet disorders:</b><br/>
+
+                                <b>Additional Resources:</b><br/>
+                                <a href="https://www.hemophilia.org/">https://www.hemophilia.org/</a>
                             </p>
-                            <br/>
-                            <h2>Data Sources</h2>
-                            <p>The data from these APIs were acquired by making a the appropriate calls to the remote APIs with our backend server 
-                                and stored into our MongoDB database. 
-                                The React front end will then make Axios calls to our Flask API to grab the data from MongoDB and display it on the page.</p>
-                            <a href="https://restcountries.eu/">https://restcountries.eu/</a>
-                            <br/><a href="https://www.sygic.com/developers/sygic-travel/sygic-travel-api/places">https://www.sygic.com/developers/sygic-travel/sygic-travel-api/places</a>
-                            <br/><a href="https://unsplash.com/developers">https://unsplash.com/developers</a>
-                            <br/>
                             <br/>
                         </Tab>
                         <Tab eventKey="theTeam" title="The Team">
@@ -245,16 +239,17 @@ He also holds a B.S. degree, with honors, in biological sciences from Stanford U
                         </Tab>
                         <Tab eventKey="location" title="Location">
                             <br/>
-                            <h2>About</h2>
-                            <p>
-                                This site is designed to make finding travel destinations easier. 
-                                It makes connections between landmarks, cities, and countries, which helps travellers make more informed decisions on vacation.
-                                Our goal is to centralize all the common travel data sets and make meaningful connections between them to help the average vacation-goer plan the best possible vacation.
-                                <br/><br/>
-                                Users will be able to search through a list of countries, cities, or landmarks to find vacation destinations.
-                                After finding a particular country, city, or landmark, the user will be presented with information about that location as well as connections to the other two models.
-                                For example, if a user clicks on The Pyramids of Giza, they will find information on the pyramids along with links to the city of Cairo and the Country of Egypt.
-                            </p>
+                            <div >
+                                <h3>West Campus Building 3 (WCB3) - UT Southwestern</h3>
+                                <p>2001 Inwood Rd, Dallas, TX 75390</p>
+                                <p>9th Floor</p>
+                                <iframe
+                                    width="100%"
+                                    height="400"
+                                    frameborder="0" 
+                                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAJeKNaqhS_mnSgskl7s7VNjIcNUYs_1Eo&q=West+Campus+Building+3+(WCB3)+-+UT+Southwestern" allowfullscreen>
+                                </iframe>
+                            </div>
                         </Tab>
                         <Tab eventKey="otherResources" title="Other Resources">
                             <br/>
