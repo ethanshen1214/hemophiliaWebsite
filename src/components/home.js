@@ -241,8 +241,9 @@ He also holds a B.S. degree, with honors, in biological sciences from Stanford U
                             <br/>
                             <div >
                                 <h3>West Campus Building 3 (WCB3) - UT Southwestern</h3>
-                                <p>2001 Inwood Rd, Dallas, TX 75390</p>
-                                <p>9th Floor</p>
+                                <p>2001 Inwood Rd, 9th floor
+                                    <br/>Dallas, TX 75390</p>
+                                <p>214-645-2800</p>
                                 <iframe
                                     width="100%"
                                     height="400"
@@ -253,17 +254,14 @@ He also holds a B.S. degree, with honors, in biological sciences from Stanford U
                         </Tab>
                         <Tab eventKey="otherResources" title="Other Resources">
                             <br/>
-                            <br/>
-                            <br/>
-                            <h2>About</h2>
+                            <h2>Resources</h2>
                             <p>
-                                This site is designed to make finding travel destinations easier. 
-                                It makes connections between landmarks, cities, and countries, which helps travellers make more informed decisions on vacation.
-                                Our goal is to centralize all the common travel data sets and make meaningful connections between them to help the average vacation-goer plan the best possible vacation.
-                                <br/><br/>
-                                Users will be able to search through a list of countries, cities, or landmarks to find vacation destinations.
-                                After finding a particular country, city, or landmark, the user will be presented with information about that location as well as connections to the other two models.
-                                For example, if a user clicks on The Pyramids of Giza, they will find information on the pyramids along with links to the city of Cairo and the Country of Egypt.
+                                a.	World Federation of Hemophilia: <a href = "https://www.wfh.org/en/home">https://www.wfh.org/en/home</a> <br/>
+                                b.	International Society of Thrombosis and Hemostasis: <a href = "https://www.isth.org/">https://www.isth.org/</a>  <br/>
+                                c.	National Hemophilia Foundation: <a href = "https://www.hemophilia.org/">https://www.hemophilia.org/</a> <br/>
+                                d.	Hemophilia Federation of America: <a href = "https://www.hemophiliafed.org/">https://www.hemophiliafed.org/</a> <br/>
+                                e.	Texas Central Bleeding Disorders: <a href = "https://texcen.org/">https://texcen.org/</a>  <br/>
+                                f.	Hemophilia Alliance: <a href = "https://hemoalliance.org/">https://hemoalliance.org/</a> <br/>
                             </p>
                         </Tab>
                     </Tabs> 
