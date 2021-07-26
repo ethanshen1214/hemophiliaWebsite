@@ -41,28 +41,32 @@ export default class Home extends Component {
                         </Tab>
                         <Tab eventKey="whatWeTreat" title="What We Treat">
                             <br/>
-                            <h2>Tools Used</h2>
+                            <h2>What We Treat</h2>
                             <p>
-                                Our stack consists of ReactJS for the front end, Flask for the API, and MongoDB for the database.
-                                In addition to these main technologies, we also used React-Bootstrap to integrate the bootstrap library 
-                                with our front end as well as Axios to make API calls to our Flask server.<br/><br/>
-
                                 <b>Hemophilia A:</b><br/>
-                                ReactJS - JavaScript library that simplifies UI development and runs more efficiently by utilizing a virtual DOM and components.<br/>
-                                Flask - Python microframework made for building web servers.<br/>
-                                MongoDB - NoSQL database that uses JSON-like notation. It is lightweight and easily scalable.<br/><br/>
+                                Hemophilia A, also called factor VIII (8) deficiency or classic hemophilia, is a genetic disorder caused by missing or defective factor VIII (FVIII), a clotting protein. Although it is passed down from parents to children, about 1/3 of cases found have no previous family history.
+<br/><br/>
+According to the US Centers for Disease Control and Prevention (CDC), hemophilia occurs in approximately 1 in 5,617 live male births. There are between 30,000 – 33,000 males with hemophilia in the US*.  More than half of people diagnosed with hemophilia A have the severe form. Hemophilia A is four times as common as hemophilia B. Hemophilia affects all races and ethnic groups.
+<br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a</a><br/><br/><br/>                                
                                 
                                 <b>Hemophilia B:</b><br/>
                                 Hemophilia B, also called factor IX (FIX) deficiency or Christmas disease, is a genetic disorder caused by missing or defective factor IX, a clotting protein. Although it is passed down from parents to children, about 1/3 of cases are caused by a spontaneous mutation, a change in a gene.
 <br/><br/>
-According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. There are about 20,000 people with hemophilia in the US. All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.<br/><br/>
+According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. There are about 20,000 people with hemophilia in the US. All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.
+<br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/>                                
                                 
                                 <b>Von Willebrand disease:</b><br/>
-                                We used Github to share and collaborate on code and maintain version control. <br/>
-                                The repository can be found here: <a href="https://github.com/UT-SWLab/TeamE1">https://github.com/UT-SWLab/TeamE1</a>
-                            
+                                Von Willebrand disease (VWD) is an inheritable bleeding disorder. Many different proteins are needed to make a person’s blood clot successfully. People with VWD are either missing or low in the clotting protein von Willebrand factor (VWF) – or it doesn’t work as it’s supposed to. For a person to make a successful clot, VWF binds to factor VIII (8), another clotting protein, and platelets in blood vessel walls. This process will help form a platelet plug during the clotting process. People with VWD are not able to form this platelet plug, or it will take longer to form. The condition is named after Finnish physician Erik von Willebrand, who first described it in the 1920s.
+<br/><br/>
+VWD is the most common bleeding disorder, affecting up to 1% of the US population – or approximately 1 in every 100 people. It occurs equally in men and women. However, women may be more symptomatic due to heavy menstrual bleeding (periods). VWD occurs equally across all races and ethnicities.
+<br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease">https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease</a><br/><br/><br/>                                
+                                
                                 <b>Other clotting factor deficiencies:</b><br/>
-
+                                In the US, a rare disease or disorder is defined as one that affects fewer than 200,000 people. This means hemophilia A and B, and the less-common factor deficiencies such as I, II, V, VII, X, XI, XII and XIII, are all rare disorders.
+<br/><br/>
+Blood clotting is a complex process, involving many different proteins, called factors, each of which plays a different role in the blood clotting process. Factor deficiencies are defined by which specific clotting protein in the blood protein is low, missing or doesn't work properly.
+<br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies">https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies</a><br/><br/><br/>                                 
+                                
                                 <b>Congenital platelet disorders:</b><br/>
 
                                 <b>Additional Resources:</b><br/>
