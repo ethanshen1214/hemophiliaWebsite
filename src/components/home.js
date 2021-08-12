@@ -2,17 +2,11 @@ import React, {Component} from 'react';
 import '../App.css';
 import './home.css';
 import { Container, Row, Col, Tabs, Tab } from 'react-bootstrap';
-//import { Jumbotron, Container, Card, CardDeck } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
-import { CardActionArea } from '@material-ui/core';
+
 
 //https://i.pinimg.com/originals/c9/9d/1b/c99d1b83118fc881c9a84e7797a4a0c4.jpg
 export default class Home extends Component {
     render() {  //landing page
-
-        var homepage = {
-            backgroundImage: "url(https://i.pinimg.com/originals/35/44/d3/3544d3bf4b6f2d08c382298ff0e9e3f6.jpg)",
-        };
 
         return (
             
@@ -146,7 +140,7 @@ export default class Home extends Component {
                                     <div className="text-right">
                                         <img alt="" src = '/hofmann-sandra.jpg' width="200"/>
                                         <h4>Sandy Hofmann, M.D., Ph.D.</h4>
-                                        <p><br/><a href=""></a></p>
+                                        <p><br/></p>
                                     </div> 
                                 </Col>
                             </Row>
@@ -213,17 +207,17 @@ export default class Home extends Component {
                                 <Col>
                                     <img alt="" src = '/tracy.jpg' width="200"/>
                                     <h4>Tracy Bonebrake, RN, CPHON</h4>
-                                    <p>Program Manager<br/><a href=""></a>214-648-1937</p>
+                                    <p>Program Manager<br/>214-648-1937</p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/diane.jpg' width="200"/>
                                     <h4>Diane Simsuangco, RN</h4>
-                                    <p>Hemophilia Nurse<br/><a href=""></a>214-648-3049</p>
+                                    <p>Hemophilia Nurse<br/>214-648-3049</p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/katherine.jpg' width="200"/>
                                     <h4>Katherine Lipsky, LCSW, ACSW</h4>
-                                    <p>Social Worker<br/><a href=""></a>214-648-5177</p>
+                                    <p>Social Worker<br/>214-648-5177</p>
                                 </Col>
                             </Row>
                             <br/>
@@ -231,17 +225,17 @@ export default class Home extends Component {
                                 <Col>
                                     <img alt="" src = '/shen-yu.jpg' width="200"/>
                                     <h4>Samantha Frost and colleagues</h4>
-                                    <p><br/><a href=""></a></p>
+                                    <p><br/></p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/phillip.jpg' width="200"/>
                                     <h4>Phillip Escarsega</h4>
-                                    <p>Clinical Research Coordinator<br/><a href=""></a>214-648-3019</p>
+                                    <p>Clinical Research Coordinator<br/>214-648-3019</p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/debra.jpg' width="200"/>
                                     <h4>Debra Harvey</h4>
-                                    <p><br/><a href=""></a></p>
+                                    <p><br/></p>
                                 </Col>
                             </Row>
                         </Tab>

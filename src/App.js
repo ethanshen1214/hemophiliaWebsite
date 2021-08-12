@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import { Navbar, Nav, /*Form, FormControl, Button,*/ Jumbotron, Container } from 'react-bootstrap';
-import { HashRouter as Router, Link } from 'react-router-dom';
+import { Navbar, Jumbotron, Container } from 'react-bootstrap';
+import { HashRouter as Router} from 'react-router-dom';
 import Routes from './components/routes';
 import './App.css';
 
