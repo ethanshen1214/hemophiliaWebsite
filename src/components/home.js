@@ -41,7 +41,7 @@ export default class Home extends Component {
                                 <br/><br/><br/>
                                 Soucie JM, Nuss R, Evatt, B, Abdelhak A, Cowan L, Hill H, Kolakoski M, Wilber N, and the Hemophilia Surveillance System Project Investigators. Mortality among males with hemophilia: relations with source of medical care. Blood 2000; 96:437-442.
                                 <br/><br/>
-Soucie JM, Symons J, Evatt B, Brettler D, Huszti H, Linden J, and the Hemophilia Surveillance System Project Investigators. Home-based factor infusion therapy and hospitalization for bleeding complications among males with hemophilia. Haemophilia 2001; 7:198-206.
+                                Soucie JM, Symons J, Evatt B, Brettler D, Huszti H, Linden J, and the Hemophilia Surveillance System Project Investigators. Home-based factor infusion therapy and hospitalization for bleeding complications among males with hemophilia. Haemophilia 2001; 7:198-206.
 
                             </p>
                         </Tab>
@@ -50,34 +50,56 @@ Soucie JM, Symons J, Evatt B, Brettler D, Huszti H, Linden J, and the Hemophilia
                             <h2>What We Treat</h2>
                             <p>
                                 <b>Hemophilia A:</b><br/>
-                                Hemophilia A, also called factor VIII (8) deficiency or classic hemophilia, is a genetic disorder caused by missing or defective factor VIII (FVIII), a clotting protein. Although it is passed down from parents to children, about 1/3 of cases found have no previous family history.
-                                <br/><br/>
-                                According to the US Centers for Disease Control and Prevention (CDC), hemophilia occurs in approximately 1 in 5,617 live male births. There are between 30,000 – 33,000 males with hemophilia in the US*.  More than half of people diagnosed with hemophilia A have the severe form. Hemophilia A is four times as common as hemophilia B. Hemophilia affects all races and ethnic groups.
+                                    Hemophilia A, also called factor VIII (8) deficiency or classic hemophilia, is a genetic disorder caused by missing or defective factor VIII (FVIII), a clotting protein. 
+                                    Although it is passed down from parents to children, about 1/3 of cases found have no previous family history.
+                                    <br/><br/>
+                                    According to the US Centers for Disease Control and Prevention (CDC), hemophilia occurs in approximately 1 in 5,617 live male births. 
+                                    There are between 30,000 – 33,000 males with hemophilia in the US*.  
+                                    More than half of people diagnosed with hemophilia A have the severe form. 
+                                    Hemophilia A is four times as common as hemophilia B. Hemophilia affects all races and ethnic groups.
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a</a><br/><br/><br/>                                
                                 
                                 <b>Hemophilia B:</b><br/>
-                                Hemophilia B, also called factor IX (FIX) deficiency or Christmas disease, is a genetic disorder caused by missing or defective factor IX, a clotting protein. Although it is passed down from parents to children, about 1/3 of cases are caused by a spontaneous mutation, a change in a gene.
-                                <br/><br/>
-                                According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. There are about 20,000 people with hemophilia in the US. All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.
+                                    Hemophilia B, also called factor IX (FIX) deficiency or Christmas disease, is a genetic disorder caused by missing or defective factor IX, a clotting protein. 
+                                    Although it is passed down from parents to children, about 1/3 of cases are caused by a spontaneous mutation, a change in a gene.
+                                    <br/><br/>
+                                    According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. 
+                                    There are about 20,000 people with hemophilia in the US. 
+                                    All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/>                                
                                 
                                 <b>Von Willebrand disease:</b><br/>
-                                Von Willebrand disease (VWD) is an inheritable bleeding disorder. Many different proteins are needed to make a person’s blood clot successfully. People with VWD are either missing or low in the clotting protein von Willebrand factor (VWF) – or it doesn’t work as it’s supposed to. For a person to make a successful clot, VWF binds to factor VIII (8), another clotting protein, and platelets in blood vessel walls. This process will help form a platelet plug during the clotting process. People with VWD are not able to form this platelet plug, or it will take longer to form. The condition is named after Finnish physician Erik von Willebrand, who first described it in the 1920s.
-                                <br/><br/>
-                                VWD is the most common bleeding disorder, affecting up to 1% of the US population – or approximately 1 in every 100 people. It occurs equally in men and women. However, women may be more symptomatic due to heavy menstrual bleeding (periods). VWD occurs equally across all races and ethnicities.
+                                    Von Willebrand disease (VWD) is an inheritable bleeding disorder. 
+                                    Many different proteins are needed to make a person’s blood clot successfully. 
+                                    People with VWD are either missing or low in the clotting protein von Willebrand factor (VWF) – or it doesn’t work as it’s supposed to. 
+                                    For a person to make a successful clot, VWF binds to factor VIII (8), another clotting protein, and platelets in blood vessel walls. 
+                                    This process will help form a platelet plug during the clotting process. 
+                                    People with VWD are not able to form this platelet plug, or it will take longer to form. 
+                                    The condition is named after Finnish physician Erik von Willebrand, who first described it in the 1920s.
+                                    <br/><br/>
+                                    VWD is the most common bleeding disorder, affecting up to 1% of the US population – or approximately 1 in every 100 people. 
+                                    It occurs equally in men and women. However, women may be more symptomatic due to heavy menstrual bleeding (periods). 
+                                    VWD occurs equally across all races and ethnicities.
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease">https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease</a><br/><br/><br/>                                
                                 
                                 <b>Other clotting factor deficiencies:</b><br/>
-                                In the US, a rare disease or disorder is defined as one that affects fewer than 200,000 people. This means hemophilia A and B, and the less-common factor deficiencies such as I, II, V, VII, X, XI, XII and XIII, are all rare disorders.
-                                <br/><br/>
-                                Blood clotting is a complex process, involving many different proteins, called factors, each of which plays a different role in the blood clotting process. Factor deficiencies are defined by which specific clotting protein in the blood protein is low, missing or doesn't work properly.
+                                    In the US, a rare disease or disorder is defined as one that affects fewer than 200,000 people. 
+                                    This means hemophilia A and B, and the less-common factor deficiencies such as I, II, V, VII, X, XI, XII and XIII, are all rare disorders.
+                                    <br/><br/>
+                                    Blood clotting is a complex process, involving many different proteins, called factors, each of which plays a different role in the blood clotting process. 
+                                    Factor deficiencies are defined by which specific clotting protein in the blood protein is low, missing or doesn't work properly.
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies">https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies</a><br/><br/><br/>                                 
                                 
                                 <b>Congenital platelet disorders:</b><br/>
-                                Platelets play an important role in blood clotting, so when a person has a low number of platelets, too many platelets or their platelets don’t work the way they should, they have a platelet disorder. People with platelet disorders take longer to stop bleeding.
-<br/><br/>
-Platelets are tiny, irregularly shaped blood cell pieces (called fragments) that play an important role in the making of blood clots. When an injury occurs and a blood clot is needed, the platelets become sticky and help plug the site of the injury. They attract other proteins needed in the clotting process and they help form a stable clot. There are several ways that platelets may not work properly, which result in platelet disorders. Some platelet disorders are not fully understood and may result in a diagnosis of an "unspecified platelet disorder."
-<br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/inherited-platelet-disorders">https://www.hemophilia.org/bleeding-disorders-a-z/types/inherited-platelet-disorders</a><br/><br/><br/> 
+                                    Platelets play an important role in blood clotting, so when a person has a low number of platelets, too many platelets or their platelets don’t work the way they should, they have a platelet disorder. 
+                                    People with platelet disorders take longer to stop bleeding.
+                                    <br/><br/>
+                                    Platelets are tiny, irregularly shaped blood cell pieces (called fragments) that play an important role in the making of blood clots. 
+                                    When an injury occurs and a blood clot is needed, the platelets become sticky and help plug the site of the injury. 
+                                    They attract other proteins needed in the clotting process and they help form a stable clot. 
+                                    There are several ways that platelets may not work properly, which result in platelet disorders. 
+                                    Some platelet disorders are not fully understood and may result in a diagnosis of an "unspecified platelet disorder."
+                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/inherited-platelet-disorders">https://www.hemophilia.org/bleeding-disorders-a-z/types/inherited-platelet-disorders</a><br/><br/><br/> 
                                 
                                 <b>Additional Resources:</b><br/>
                                 <a href="https://www.hemophilia.org/">https://www.hemophilia.org/</a>
@@ -86,29 +108,24 @@ Platelets are tiny, irregularly shaped blood cell pieces (called fragments) that
                         </Tab>
                         <Tab eventKey="theTeam" title="The Team">
                             <br/>
-                            
                             <h2>Meet The Team</h2>
                             <br/>
                             <Row>
                                 <Col>
                                     <img alt="" src = '/bat-taha.jpg' width="200" />
-                                     
                                     <h4>Taha Bat, M.D.</h4>
                                     <p><br/><a href="https://utswmed.org/request-appointment/9111/taha-bat/">Request an Appointment</a></p>
-                                     
                                 </Col>
                                 <Col>
-                                    <p>
-                                    Taha Bat, M.D., is an Assistant Professor in the Department of Internal Medicine at UT Southwestern Medical Center. He specializes in bone marrow failure syndromes, clonal hematopoiesis, platelet disorders, and cancer-related venous thromboembolism (VTE).
-
-Dr. Bat earned his medical degree at Hacettepe University in Turkey and completed a residency in internal medicine at Western Reserve Health Education. He received advanced training in bone marrow syndromes through a fellowship at the Cleveland Clinic Foundation and in hematology and oncology through a fellowship at the University at Buffalo/Roswell Park Comprehensive Cancer Center.
-
-He joined the UT Southwestern faculty in 2020.
-
-Dr. Bat is Associate Editor of the Open Access Blood Research Transfusion Journal. He is a member of several professional organizations, including the American Society of Clinical Oncology and the American Society of Hematology. In 2016, he was awarded the Edward P. Evans Fellowship Scholarship.
-
-He has published numerous academic articles.
-                                    </p>
+                                    Taha Bat, M.D., is an Assistant Professor in the Department of Internal Medicine at UT Southwestern Medical Center. 
+                                    He specializes in bone marrow failure syndromes, clonal hematopoiesis, platelet disorders, and cancer-related venous thromboembolism (VTE).
+                                    Dr. Bat earned his medical degree at Hacettepe University in Turkey and completed a residency in internal medicine at Western Reserve Health Education. 
+                                    He received advanced training in bone marrow syndromes through a fellowship at the Cleveland Clinic Foundation and in hematology and oncology through a fellowship at the University at Buffalo/Roswell Park Comprehensive Cancer Center.
+                                    He joined the UT Southwestern faculty in 2020.
+                                    Dr. Bat is Associate Editor of the Open Access Blood Research Transfusion Journal. 
+                                    He is a member of several professional organizations, including the American Society of Clinical Oncology and the American Society of Hematology. 
+                                    In 2016, he was awarded the Edward P. Evans Fellowship Scholarship.
+                                    He has published numerous academic articles.
                                 </Col>
                             </Row>
                             <br/>
@@ -116,27 +133,21 @@ He has published numerous academic articles.
                             <br/>
                             <Row>
                                 <Col>
-                                    <p>
                                     Sandra L. Hofmann, M.D., Ph.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center. She specializes in hematology and oncology.
-
-Dr. Hofmann earned her medical degree and a doctoral degree in molecular biology at Washington University in St. Louis, where she also performed her residency in internal medicine and a fellowship in hematology and oncology. She received advanced training in molecular genetics through a postdoctoral fellowship at UT Southwestern.
-
-Certified by the American Board of Internal Medicine, Dr. Hofmann joined the UT Southwestern faculty in 1989.
-
-Dr. Hofmann’s research interests focus on the metabolism of proteins that are modified by lipids. Her laboratory has conducted pioneering work that has led to a greater understanding of a group of hereditary brain disorders known as the neuronal ceroid lipofuscinoses (NCL, or Batten disease).
-
-She is a member of the American Association for the Advancement of Science, the Association of American Physicians, the American Society for Biochemistry and Molecular Biology, the American Society for Clinical Investigation, and the American Society of Hematology.
-                                    </p>
+                                    Dr. Hofmann earned her medical degree and a doctoral degree in molecular biology at Washington University in St. Louis, where she also performed her residency in internal medicine and a fellowship in hematology and oncology. 
+                                    She received advanced training in molecular genetics through a postdoctoral fellowship at UT Southwestern.
+                                    Certified by the American Board of Internal Medicine, Dr. Hofmann joined the UT Southwestern faculty in 1989.
+                                    Dr. Hofmann’s research interests focus on the metabolism of proteins that are modified by lipids. 
+                                    Her laboratory has conducted pioneering work that has led to a greater understanding of a group of hereditary brain disorders known as the neuronal ceroid lipofuscinoses (NCL, or Batten disease).
+                                    She is a member of the American Association for the Advancement of Science, the Association of American Physicians, 
+                                    the American Society for Biochemistry and Molecular Biology, the American Society for Clinical Investigation, and the American Society of Hematology.
                                 </Col>
                                 <Col >
                                     <div className="text-right">
                                         <img alt="" src = '/hofmann-sandra.jpg' width="200"/>
-                                         
                                         <h4>Sandy Hofmann, M.D., Ph.D.</h4>
                                         <p><br/><a href=""></a></p>
-                                    </div>
-                                    
-                                    
+                                    </div> 
                                 </Col>
                             </Row>
                             <br/>
@@ -145,12 +156,13 @@ She is a member of the American Association for the Advancement of Science, the 
                             <Row>
                                 <Col>
                                     <img alt="" src = '/ibrahim-ibrahim.jpg' width="200"/>
-                                    
                                     <h4>Ibrahim Ibrahim, M.D.</h4>
                                     <p><br/><a href="https://utswmed.org/request-appointment/5937/ibrahim-ibrahim/">Request an Appointment</a></p>
                                 </Col>
                                 <Col>
-                                Dr. Ibrahim graduated from the University of Texas Southwestern Medical School in 2007 and subsequently completed internal medicine residency and hematology/oncology training at UT Southwestern. After completion of fellowship, he focused his clinical practice exclusively in hematology at the Houston Medical Center developing an interest for thrombosis, hemostasis, and thrombocytopenic disorders (HIT, ITP, and TTP).   Dr. Ibrahim’s interests outside of medicine include family, tennis, reading and travel.
+                                    Dr. Ibrahim graduated from the University of Texas Southwestern Medical School in 2007 and subsequently completed internal medicine residency and hematology/oncology training at UT Southwestern. 
+                                    After completion of fellowship, he focused his clinical practice exclusively in hematology at the Houston Medical Center developing an interest for thrombosis, hemostasis, and thrombocytopenic disorders (HIT, ITP, and TTP).   
+                                    Dr. Ibrahim’s interests outside of medicine include family, tennis, reading and travel.
                                 </Col>
                             </Row>
                             <br/>
@@ -158,22 +170,20 @@ She is a member of the American Association for the Advancement of Science, the 
                             <br/>
                             <Row>
                                 <Col>
-                                Dr. Rambally is originally from Canada, but has called Dallas her home for many years. She received her B.S. in Biochemistry from Southern Methodist University in Dallas, and then went on to medical school at UT Southwestern Medical Center (UTSW). She completed her hematology and medical oncology fellowship at Baylor College of Medicine in Houston, where she developed a strong background in general medical oncology, benign and malignant hematology. 
-
-She was drawn back to UTSW because she enjoys teaching, has an interest in research, and wants to be a part of the long-standing academic excellence which has been a tradition at UTSW. She currently specializes in benign and malignant hematologic disorders. Her clinical practice emphasizes patient and family-centered care. 
-
-She was included in D Magazine's Best Doctors list for 2018.
+                                    Dr. Rambally is originally from Canada, but has called Dallas her home for many years. 
+                                    She received her B.S. in Biochemistry from Southern Methodist University in Dallas, and then went on to medical school at UT Southwestern Medical Center (UTSW). 
+                                    She completed her hematology and medical oncology fellowship at Baylor College of Medicine in Houston, where she developed a strong background in general medical oncology, benign and malignant hematology. 
+                                    She was drawn back to UTSW because she enjoys teaching, has an interest in research, and wants to be a part of the long-standing academic excellence which has been a tradition at UTSW. 
+                                    She currently specializes in benign and malignant hematologic disorders. Her clinical practice emphasizes patient and family-centered care. 
+                                    She was included in D Magazine's Best Doctors list for 2018.
                                 </Col>
                                 <Col>
                                     <div className="text-right">
                                         <img alt="" src = '/rambally-siayareh.jpg' width="200"/>
-                                        
                                         <h4>Siayareh Rambally, M.D.</h4>
                                         <p><br/><a href="https://utswmed.org/request-appointment/1949/siayareh-rambally/">Request an Appointment</a></p>
                                     </div>
-                                    
                                 </Col>
-
                             </Row>
                             <br/>
                             <hr></hr>
@@ -181,26 +191,19 @@ She was included in D Magazine's Best Doctors list for 2018.
                             <Row>
                                 <Col>
                                     <img alt="" src = '/shen-yu.jpg' width="200"/>
-                                    
                                     <h4>Yu-Min Shen, M.D.</h4>
                                     <p><br/><a href="https://utswmed.org/request-appointment/1522/yu-shen/">Request an Appointment</a></p>
                                 </Col>
                                 <Col>
-                                Yu-Min Shen, M.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center.
-
-Recognized as the regional expert in coagulation disorders, Dr. Shen is a nonmalignant hematologic disorders specialist whose areas of clinical expertise include bleeding and clotting disorders, hemostasis, and thrombosis.
-
-A Fellow of the American College of Physicians, Dr. Shen emigrated from Taiwan as a teenager. He is American Board of Internal Medicine certified in internal medicine, hematology, and oncology.
-
-Dr. Shen was recognized for his excellence as an educator with UT Southwestern’s 2011 Eugene P. Frenkel Outstanding Teacher of the Year Award.
-
-Dr. Shen has delivered a number of invited lectures internationally, nationally, and regionally and published more than 20 scholarly articles, chapters, reviews, and case reports. He serves as an ad hoc reviewer for the Journal of Clinical Oncology.
-
-He is a member of professional organizations that include the American Society of Hematology, International Society on Thrombosis and Haemostasis, and Hemophilia and Thrombosis Research Society.
-
-Dr. Shen earned his medical degree at the University of California, San Diego School of Medicine. He completed both an internal medicine residency and a hematology/ oncology fellowship at UT Southwestern.
-
-He also holds a B.S. degree, with honors, in biological sciences from Stanford University.
+                                    Yu-Min Shen, M.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center.
+                                    Recognized as the regional expert in coagulation disorders, Dr. Shen is a nonmalignant hematologic disorders specialist whose areas of clinical expertise include bleeding and clotting disorders, hemostasis, and thrombosis.
+                                    A Fellow of the American College of Physicians, Dr. Shen emigrated from Taiwan as a teenager. He is American Board of Internal Medicine certified in internal medicine, hematology, and oncology.
+                                    Dr. Shen was recognized for his excellence as an educator with UT Southwestern’s 2011 Eugene P. Frenkel Outstanding Teacher of the Year Award.
+                                    Dr. Shen has delivered a number of invited lectures internationally, nationally, and regionally and published more than 20 scholarly articles, chapters, reviews, and case reports. 
+                                    He serves as an ad hoc reviewer for the Journal of Clinical Oncology.
+                                    He is a member of professional organizations that include the American Society of Hematology, International Society on Thrombosis and Haemostasis, and Hemophilia and Thrombosis Research Society.
+                                    Dr. Shen earned his medical degree at the University of California, San Diego School of Medicine. He completed both an internal medicine residency and a hematology/ oncology fellowship at UT Southwestern.
+                                    He also holds a B.S. degree, with honors, in biological sciences from Stanford University.
                                 </Col>
                             </Row>
                             <br/>
@@ -209,39 +212,34 @@ He also holds a B.S. degree, with honors, in biological sciences from Stanford U
                             <Row>
                                 <Col>
                                     <img alt="" src = '/tracy.jpg' width="200"/>
-                                    
                                     <h4>Tracy Bonebrake, RN, CPHON</h4>
-                                    <p><br/><a href=""></a></p>
+                                    <p>Program Manager<br/><a href=""></a>214-648-1937</p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/diane.jpg' width="200"/>
-                                    
                                     <h4>Diane Simsuangco, RN</h4>
-                                    <p><br/><a href=""></a></p>
+                                    <p>Hemophilia Nurse<br/><a href=""></a>214-648-3049</p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/katherine.jpg' width="200"/>
-                                    
-                                    <h4>Katherine Lipsky</h4>
-                                    <p><br/><a href=""></a></p>
+                                    <h4>Katherine Lipsky, LCSW, ACSW</h4>
+                                    <p>Social Worker<br/><a href=""></a>214-648-5177</p>
                                 </Col>
                             </Row>
+                            <br/>
                             <Row>
                                 <Col>
                                     <img alt="" src = '/shen-yu.jpg' width="200"/>
-                                    
                                     <h4>Samantha Frost and colleagues</h4>
                                     <p><br/><a href=""></a></p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/phillip.jpg' width="200"/>
-                                    
                                     <h4>Phillip Escarsega</h4>
-                                    <p><br/><a href=""></a></p>
+                                    <p>Clinical Research Coordinator<br/><a href=""></a>214-648-3019</p>
                                 </Col>
                                 <Col>
                                     <img alt="" src = '/debra.jpg' width="200"/>
-                                    
                                     <h4>Debra Harvey</h4>
                                     <p><br/><a href=""></a></p>
                                 </Col>
