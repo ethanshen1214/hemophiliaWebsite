@@ -1,7 +1,7 @@
 import React from 'react';
 import { Switch, Route } from 'react-router-dom';//, BrowserRouter
 import Home from './home';
-import About from './about';
+// import About from './about';
 // import Countries from './countries';
 // import CountryPage from './countryPage';
 // import Cities from './cities';
@@ -13,7 +13,7 @@ import About from './about';
 export default function Routes() {
     return( //router component that controls which page is loaded
         <Switch>
-            <Route path="/about" component={About} />
+            {/* <Route path="/about" component={About} /> */}
 
             {/* <Route path="/countries" exact component={Countries}/>
             <Route path="/countries/:country_name" component={CountryPage}/>
