@@ -33,10 +33,11 @@ export default class Home extends Component {
                                 Similarly, patients treated by HTC were 40% less likely to be hospitalized for bleeding complications2. 
                                 In addition to providing state-of-the-art care to patients with bleeding disorders, we also participate in research endeavors in partnership with other HTCs as well as pharmaceutical industry to advance knowledge and hopefully impact health practices for bleeding disorders.
                                 <br/><br/><br/>
+                                <hr></hr>
                                 Soucie JM, Nuss R, Evatt, B, Abdelhak A, Cowan L, Hill H, Kolakoski M, Wilber N, and the Hemophilia Surveillance System Project Investigators. Mortality among males with hemophilia: relations with source of medical care. Blood 2000; 96:437-442.
                                 <br/><br/>
                                 Soucie JM, Symons J, Evatt B, Brettler D, Huszti H, Linden J, and the Hemophilia Surveillance System Project Investigators. Home-based factor infusion therapy and hospitalization for bleeding complications among males with hemophilia. Haemophilia 2001; 7:198-206.
-
+                                <hr></hr>
                             </p>
                         </Tab>
                         <Tab eventKey="whatWeTreat" title="What We Treat">
@@ -256,7 +257,7 @@ export default class Home extends Component {
                         </Tab>
                         <Tab eventKey="otherResources" title="Other Resources">
                             <br/>
-                            <h2>Resources</h2>
+                            <h2>Additional Resources</h2>
                             <p>
                                 a.	World Federation of Hemophilia: <a href = "https://www.wfh.org/en/home">https://www.wfh.org/en/home</a> <br/>
                                 b.	International Society of Thrombosis and Hemostasis: <a href = "https://www.isth.org/">https://www.isth.org/</a>  <br/>

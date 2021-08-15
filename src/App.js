@@ -23,10 +23,19 @@ class App extends Component {
                     width="250"
                     height="50"
                     // hspace="130"
-                    style={{marginLeft: "16%", marginRight: "50px"}}
+                    style={{marginLeft: "18%", marginRight: "50px"}}
                     className="d-inline-block align-top"
                   />{' '}
-                    North Texas Comprehensive Hemophilia Treatment Center - Adult Program
+                    <b>North Texas Comprehensive Hemophilia Treatment Center</b>
+                    {/* <img
+                            alt=""
+                            src="/bloodLogo3.png"
+                            width="80%"
+                            height="80%"
+                            // hspace="130"
+                            //style={{marginLeft: "16%", marginRight: "50px"}}
+                            className="d-inline-block align-top"
+                    /> */}
                     </div>
                   {/*  */}
                 </Navbar.Brand>
@@ -41,7 +50,7 @@ class App extends Component {
                           <br/>
                           <img
                             alt=""
-                            src="/logo.jpg"
+                            src="/bloodLogo2.png"
                             //width="250"
                             //height="50"
                             // hspace="130"
