@@ -105,6 +105,44 @@ export default class Home extends Component {
                             <br/>
                             <h2>Meet The Team</h2>
                             <br/>
+                            <h3>Staff</h3>
+                            <Row>
+                                <Col>
+                                    <img alt="" src = '/tracy.jpg' width="200"/>
+                                    <h4>Tracy Bonebrake, RN, CPHON</h4>
+                                    <p>Program Manager<br/>214-648-1937</p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/diane.jpg' width="200"/>
+                                    <h4>Diane Simsuangco, RN</h4>
+                                    <p>Hemophilia Nurse<br/>214-648-3049</p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/katherine.jpg' width="200"/>
+                                    <h4>Katherine Lipsky, LCSW, ACSW</h4>
+                                    <p>Social Worker<br/>214-648-5177</p>
+                                </Col>
+                            </Row>
+                            <br/>
+                            <Row>
+                                <Col>
+                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    <h4>Samantha Frost and colleagues</h4>
+                                    <p><br/></p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/phillip.jpg' width="200"/>
+                                    <h4>Phillip Escarsega</h4>
+                                    <p>Clinical Research Coordinator<br/>214-648-3019</p>
+                                </Col>
+                                <Col>
+                                    <img alt="" src = '/debra.jpg' width="200"/>
+                                    <h4>Debra Harvey</h4>
+                                    <p><br/></p>
+                                </Col>
+                            </Row>
+                            <hr></hr>
+                            <h3>Physicians</h3>
                             <Row>
                                 <Col>
                                     <img alt="" src = '/bat-taha.jpg' width="200" />
@@ -201,10 +239,10 @@ export default class Home extends Component {
                                     He also holds a B.S. degree, with honors, in biological sciences from Stanford University.
                                 </Col>
                             </Row>
-                            <br/>
+                            {/* <br/>
                             <hr></hr>
-                            <br/>
-                            <Row>
+                            <br/> */}
+                            {/* <Row>
                                 <Col>
                                     <img alt="" src = '/tracy.jpg' width="200"/>
                                     <h4>Tracy Bonebrake, RN, CPHON</h4>
@@ -238,22 +276,42 @@ export default class Home extends Component {
                                     <h4>Debra Harvey</h4>
                                     <p><br/></p>
                                 </Col>
-                            </Row>
+                            </Row> */}
                         </Tab>
                         <Tab eventKey="location" title="Location">
-                            <br/>
-                            <div >
-                                <h3>West Campus Building 3 (WCB3) - UT Southwestern</h3>
-                                <p>2001 Inwood Rd, 9th floor
-                                    <br/>Dallas, TX 75390</p>
-                                <p>214-645-2800</p>
-                                <iframe
-                                    width="100%"
-                                    height="400"
-                                    frameborder="0" 
-                                    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAJeKNaqhS_mnSgskl7s7VNjIcNUYs_1Eo&q=West+Campus+Building+3+(WCB3)+-+UT+Southwestern" allowfullscreen>
-                                </iframe>
-                            </div>
+                            <Row>
+                                <Col>
+                                    <br/>
+                                    <div >
+                                        <h3>West Campus Building 3 (WCB3) - UT Southwestern</h3>
+                                        <p>2001 Inwood Rd, 9th floor
+                                            <br/>Dallas, TX 75390</p>
+                                        <p>214-645-2800</p>
+                                        <iframe
+                                            width="100%"
+                                            height="400"
+                                            frameborder="0" 
+                                            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAJeKNaqhS_mnSgskl7s7VNjIcNUYs_1Eo&q=West+Campus+Building+3+(WCB3)+-+UT+Southwestern" allowfullscreen>
+                                        </iframe>
+                                    </div>
+                                </Col>
+                                <Col>
+                                    <br/>
+                                    <div >
+                                        <h3>Moody Outpatient Center at Parkland Hospital</h3>
+                                        <p>5151 Maple Ave
+                                            <br/>Dallas, TX 75235</p>
+                                        <p>&nbsp;</p>
+                                        <iframe
+                                            width="100%"
+                                            height="400"
+                                            frameborder="0" 
+                                            src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAJeKNaqhS_mnSgskl7s7VNjIcNUYs_1Eo&q=Moody+Outpatient+Center+at+Parkland+Hospital" allowfullscreen>
+                                        </iframe>
+                                    </div>
+                                </Col>
+                            </Row>
+                            
                         </Tab>
                         <Tab eventKey="otherResources" title="Other Resources">
                             <br/>
