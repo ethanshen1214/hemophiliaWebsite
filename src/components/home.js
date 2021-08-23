@@ -78,11 +78,12 @@ export default class Home extends Component {
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease">https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease</a><br/><br/><br/>                                
                                 
                                 <b>Other clotting factor deficiencies:</b><br/>
-                                    In the US, a rare disease or disorder is defined as one that affects fewer than 200,000 people. 
-                                    This means hemophilia A and B, and the less-common factor deficiencies such as I, II, V, VII, X, XI, XII and XIII, are all rare disorders.
-                                    <br/><br/>
+                                    The process of forming a blood clot to stop bleeding is called hemostasis, and involves many different blood proteins called clotting factors. 
+                                    A patient could have a bleeding disorder due to deficiency or defect of one or more of the other clotting factors other than factor VIII, factor IX, or von Willebrand factor.  
+                                    At our HTC, we also have patients with problems with their fibrinogen, factor VII, or factor XI. All of these are rare disorders. 
+                                    {/* <br/><br/>
                                     Blood clotting is a complex process, involving many different proteins, called factors, each of which plays a different role in the blood clotting process. 
-                                    Factor deficiencies are defined by which specific clotting protein in the blood protein is low, missing or doesn't work properly.
+                                    Factor deficiencies are defined by which specific clotting protein in the blood protein is low, missing or doesn't work properly. */}
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies">https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies</a><br/><br/><br/>                                 
                                 
                                 <b>Congenital platelet disorders:</b><br/>
@@ -126,7 +127,7 @@ export default class Home extends Component {
                             <br/>
                             <Row>
                                 <Col>
-                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                    <img alt="" src = '/samantha.jpg' width="200"/>
                                     <h4>Samantha Frost and colleagues</h4>
                                     <p><br/></p>
                                 </Col>
@@ -286,7 +287,7 @@ export default class Home extends Component {
                                         <h3>West Campus Building 3 (WCB3) - UT Southwestern</h3>
                                         <p>2001 Inwood Rd, 9th floor
                                             <br/>Dallas, TX 75390</p>
-                                        <p>214-645-2800</p>
+                                        <p>214-645-2800 <br/>(For appointments, use the phone numbers below)</p>
                                         <iframe
                                             width="100%"
                                             height="400"
@@ -299,9 +300,9 @@ export default class Home extends Component {
                                     <br/>
                                     <div >
                                         <h3>Moody Outpatient Center at Parkland Hospital</h3>
-                                        <p>5151 Maple Ave
+                                        <p>5151 Maple Ave, 3rd floor
                                             <br/>Dallas, TX 75235</p>
-                                        <p>&nbsp;</p>
+                                            <p>214-590-5582 <br/>(For appointments, use the phone numbers below)</p>
                                         <iframe
                                             width="100%"
                                             height="400"
