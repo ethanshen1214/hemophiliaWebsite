@@ -55,10 +55,11 @@ class App extends Component {
                         <hr style={{height:"1px", visibility:"hidden" }}/>
                           <h4>Contact Us</h4>
                           <p>
-                            (214) 648-1939<br/>
-                            After Hours: (999) 999-9999<br/>
+                            (214) 648-5177<br/>
+                            (214) 648-1937<br/>
+                            After Hours: (214) 645-2800<br/>
                             Fax: (214)-648-4105<br/>
-                            <a href="mailto:yumin68@yahoo.com">yumin68@yahoo.com</a>
+                            <a href="mailto:NorthTexasHTC@utsouthwestern.edu">NorthTexasHTC@utsouthwestern.edu</a>
                           </p>
                         </Col>
                         <Col>

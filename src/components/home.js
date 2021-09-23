@@ -25,18 +25,19 @@ export default class Home extends Component {
                             <h2>About</h2>
                             <p>
                                 The North Texas Comprehensive Hemophilia Treatment Center-Adult Program is the only adult-focused hemophilia treatment center in Texas. 
-                                We have the expertise to care for adults with all types of bleeding disorders, both congenital and acquired. 
+                                We have the expertise to care for adults with all types of congenital bleeding disorders. 
                                 Bleeding disorders can result from defective or deficient clotting factors, platelets, or abnormal blood vessel wall, leading to excessive bleeding or bruising, spontaneously or as a result of injuries. 
+                                Occasionally bleeding can also result from acquired defects in the clotting system.
                                 <br/><br/>
-                                Hemophilia Treatment Centers (HTC) are federally-funded to provide access to multidisciplinary health care professionals with the comprehensive care model. 
-                                A CDC study of 3000 persons with hemophilia showed that those who were cared for by an HTC were 40% less likely to die of a hemophilia-related complication compared to those who did not receive care at an HTC1. 
-                                Similarly, patients treated by HTC were 40% less likely to be hospitalized for bleeding complications2. 
+                                Hemophilia Treatment Centers (HTC) are federally-funded to provide access to multidisciplinary health care professionals with the comprehensive care model for patients with congenital bleeding disorders. 
+                                A CDC study of 3000 persons with hemophilia showed that those who were cared for by an HTC were 40% less likely to die of a hemophilia-related complication compared to those who did not receive care at an HTC<sup>1</sup>. 
+                                Similarly, patients treated by HTC were 40% less likely to be hospitalized for bleeding complications<sup>2</sup>. 
                                 In addition to providing state-of-the-art care to patients with bleeding disorders, we also participate in research endeavors in partnership with other HTCs as well as pharmaceutical industry to advance knowledge and hopefully impact health practices for bleeding disorders.
                                 <br/><br/><br/>
                                 <hr></hr>
-                                Soucie JM, Nuss R, Evatt, B, Abdelhak A, Cowan L, Hill H, Kolakoski M, Wilber N, and the Hemophilia Surveillance System Project Investigators. Mortality among males with hemophilia: relations with source of medical care. Blood 2000; 96:437-442.
+                                1) &nbsp;Soucie JM, Nuss R, Evatt, B, Abdelhak A, Cowan L, Hill H, Kolakoski M, Wilber N, and the Hemophilia Surveillance System &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Investigators. Mortality among males with hemophilia: relations with source of medical care. Blood 2000; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;96:437-442.
                                 <br/><br/>
-                                Soucie JM, Symons J, Evatt B, Brettler D, Huszti H, Linden J, and the Hemophilia Surveillance System Project Investigators. Home-based factor infusion therapy and hospitalization for bleeding complications among males with hemophilia. Haemophilia 2001; 7:198-206.
+                                2) &nbsp;Soucie JM, Symons J, Evatt B, Brettler D, Huszti H, Linden J, and the Hemophilia Surveillance System Project Investigators. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home-based factor infusion therapy and hospitalization for bleeding complications among males with hemophilia. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Haemophilia 2001; 7:198-206.
                                 <hr></hr>
                             </p>
                         </Tab>
@@ -109,17 +110,17 @@ export default class Home extends Component {
                             <h3>Staff</h3>
                             <Row>
                                 <Col>
-                                    <img alt="" src = '/tracy.jpg' width="200"/>
-                                    <h4>Tracy Bonebrake, RN, CPHON</h4>
+                                    <img alt="" src = '/TracyBonebrake.jpg' width="200"/>
+                                    <h4>Tracy Bonebrake, RN, BS</h4>
                                     <p>Program Manager<br/>214-648-1937</p>
                                 </Col>
                                 <Col>
-                                    <img alt="" src = '/diane.jpg' width="200"/>
-                                    <h4>Diane Simsuangco, RN</h4>
+                                    <img alt="" src = '/DianeSimsuangco.jpg' width="200"/>
+                                    <h4>Diane Simsuangco, RN, MN</h4>
                                     <p>Hemophilia Nurse<br/>214-648-3049</p>
                                 </Col>
                                 <Col>
-                                    <img alt="" src = '/katherine.jpg' width="200"/>
+                                    <img alt="" src = '/KatherineLipsky.jpg' width="200"/>
                                     <h4>Katherine Lipsky, LCSW, ACSW</h4>
                                     <p>Social Worker<br/>214-648-5177</p>
                                 </Col>
@@ -128,18 +129,18 @@ export default class Home extends Component {
                             <Row>
                                 <Col>
                                     <img alt="" src = '/samantha.jpg' width="200"/>
-                                    <h4>Samantha Frost and colleagues</h4>
+                                    <h4>Samantha Frost, PT, DPT</h4>
                                     <p><br/></p>
                                 </Col>
                                 <Col>
-                                    <img alt="" src = '/phillip.jpg' width="200"/>
-                                    <h4>Phillip Escarsega</h4>
+                                    <img alt="" src = '/PhillipEscarsega.jpg' width="200"/>
+                                    <h4>Phillip Escarsega, MS</h4>
                                     <p>Clinical Research Coordinator<br/>214-648-3019</p>
                                 </Col>
                                 <Col>
-                                    <img alt="" src = '/debra.jpg' width="200"/>
-                                    <h4>Debra Harvey</h4>
-                                    <p><br/></p>
+                                    <img alt="" src = '/DebraHarvey.jpg' width="200"/>
+                                    <h4>Debra Harvey, BBA</h4>
+                                    <p>Administrative Assistant<br/>214-648-1939</p>
                                 </Col>
                             </Row>
                             <hr></hr>
@@ -148,7 +149,7 @@ export default class Home extends Component {
                                 <Col>
                                     <img alt="" src = '/bat-taha.jpg' width="200" />
                                     <h4>Taha Bat, M.D.</h4>
-                                    <p><br/><a href="https://utswmed.org/request-appointment/9111/taha-bat/">Request an Appointment</a></p>
+                                    <p><br/></p>
                                 </Col>
                                 <Col>
                                     Taha Bat, M.D., is an Assistant Professor in the Department of Internal Medicine at UT Southwestern Medical Center. 
@@ -191,7 +192,7 @@ export default class Home extends Component {
                                 <Col>
                                     <img alt="" src = '/ibrahim-ibrahim.jpg' width="200"/>
                                     <h4>Ibrahim Ibrahim, M.D.</h4>
-                                    <p><br/><a href="https://utswmed.org/request-appointment/5937/ibrahim-ibrahim/">Request an Appointment</a></p>
+                                    <p><br/></p>
                                 </Col>
                                 <Col>
                                     Dr. Ibrahim graduated from the University of Texas Southwestern Medical School in 2007 and subsequently completed internal medicine residency and hematology/oncology training at UT Southwestern. 
@@ -215,7 +216,7 @@ export default class Home extends Component {
                                     <div className="text-right">
                                         <img alt="" src = '/rambally-siayareh.jpg' width="200"/>
                                         <h4>Siayareh Rambally, M.D.</h4>
-                                        <p><br/><a href="https://utswmed.org/request-appointment/1949/siayareh-rambally/">Request an Appointment</a></p>
+                                        <p><br/></p>
                                     </div>
                                 </Col>
                             </Row>
@@ -226,7 +227,7 @@ export default class Home extends Component {
                                 <Col>
                                     <img alt="" src = '/shen-yu.jpg' width="200"/>
                                     <h4>Yu-Min Shen, M.D.</h4>
-                                    <p><br/><a href="https://utswmed.org/request-appointment/1522/yu-shen/">Request an Appointment</a></p>
+                                    <p><br/></p>
                                 </Col>
                                 <Col>
                                     Yu-Min Shen, M.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center.
@@ -242,40 +243,22 @@ export default class Home extends Component {
                             </Row>
                             {/* <br/>
                             <hr></hr>
-                            <br/> */}
-                            {/* <Row>
-                                <Col>
-                                    <img alt="" src = '/tracy.jpg' width="200"/>
-                                    <h4>Tracy Bonebrake, RN, CPHON</h4>
-                                    <p>Program Manager<br/>214-648-1937</p>
-                                </Col>
-                                <Col>
-                                    <img alt="" src = '/diane.jpg' width="200"/>
-                                    <h4>Diane Simsuangco, RN</h4>
-                                    <p>Hemophilia Nurse<br/>214-648-3049</p>
-                                </Col>
-                                <Col>
-                                    <img alt="" src = '/katherine.jpg' width="200"/>
-                                    <h4>Katherine Lipsky, LCSW, ACSW</h4>
-                                    <p>Social Worker<br/>214-648-5177</p>
-                                </Col>
-                            </Row>
                             <br/>
                             <Row>
                                 <Col>
-                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
-                                    <h4>Samantha Frost and colleagues</h4>
-                                    <p><br/></p>
+                                    Dr. Rambally is originally from Canada, but has called Dallas her home for many years. 
+                                    She received her B.S. in Biochemistry from Southern Methodist University in Dallas, and then went on to medical school at UT Southwestern Medical Center (UTSW). 
+                                    She completed her hematology and medical oncology fellowship at Baylor College of Medicine in Houston, where she developed a strong background in general medical oncology, benign and malignant hematology. 
+                                    She was drawn back to UTSW because she enjoys teaching, has an interest in research, and wants to be a part of the long-standing academic excellence which has been a tradition at UTSW. 
+                                    She currently specializes in benign and malignant hematologic disorders. Her clinical practice emphasizes patient and family-centered care. 
+                                    She was included in D Magazine's Best Doctors list for 2018.
                                 </Col>
                                 <Col>
-                                    <img alt="" src = '/phillip.jpg' width="200"/>
-                                    <h4>Phillip Escarsega</h4>
-                                    <p>Clinical Research Coordinator<br/>214-648-3019</p>
-                                </Col>
-                                <Col>
-                                    <img alt="" src = '/debra.jpg' width="200"/>
-                                    <h4>Debra Harvey</h4>
-                                    <p><br/></p>
+                                    <div className="text-right">
+                                        <img alt="" src = '/rambally-siayareh.jpg' width="200"/>
+                                        <h4>Natalie Bavli, M.D.</h4>
+                                        <p><br/></p>
+                                    </div>
                                 </Col>
                             </Row> */}
                         </Tab>
@@ -287,7 +270,7 @@ export default class Home extends Component {
                                         <h3>West Campus Building 3 (WCB3) - UT Southwestern</h3>
                                         <p>2001 Inwood Rd, 9th floor
                                             <br/>Dallas, TX 75390</p>
-                                        <p>214-645-2800 <br/>(For appointments, use the phone numbers below)</p>
+                                        
                                         <iframe
                                             width="100%"
                                             height="400"
@@ -302,7 +285,7 @@ export default class Home extends Component {
                                         <h3>Moody Outpatient Center at Parkland Hospital</h3>
                                         <p>5151 Maple Ave, 3rd floor
                                             <br/>Dallas, TX 75235</p>
-                                            <p>214-590-5582 <br/>(For appointments, use the phone numbers below)</p>
+                                            
                                         <iframe
                                             width="100%"
                                             height="400"
