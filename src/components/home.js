@@ -19,7 +19,7 @@ export default class Home extends Component {
                     <Tabs defaultActiveKey="general" id="uncontrolled-tab-example">
                         <Tab eventKey="general" title="General">
                             <br/>
-                            <img alt="" src="/microscopes.jpg" style={{width: '100%'}}></img>
+                            <img alt="" src="/team1.jpg" style={{width: '100%'}}></img>
                             <br/>
                             <br/>
                             <h2>About</h2>
@@ -263,6 +263,9 @@ export default class Home extends Component {
                             </Row> */}
                         </Tab>
                         <Tab eventKey="location" title="Location">
+                            <Row>
+                            <img alt="" src="/building.jpg" style={{width: '100%'}}></img>
+                            </Row>
                             <Row>
                                 <Col>
                                     <br/>
