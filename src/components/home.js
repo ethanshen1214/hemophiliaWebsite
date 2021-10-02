@@ -45,37 +45,62 @@ export default class Home extends Component {
                             <br/>
                             <h2>What We Treat</h2>
                             <p>
-                                <b>Hemophilia A:</b><br/>
-                                    Hemophilia A, also called factor VIII (8) deficiency or classic hemophilia, is a genetic disorder caused by missing or defective factor VIII (FVIII), a clotting protein. 
-                                    Although it is passed down from parents to children, about 1/3 of cases found have no previous family history.
+                                <b>Hemophilia:</b><br/>
+                                    Hemophilia is a deficiency of functional clotting factor VIII (FVIII) or factor IX (FIX). 
+                                    Deficiency of FVIII is called hemophilia A or classic hemophilia; deficiency of FIX is called hemophilia B, or Christmas disease. 
+                                    As a result of the clotting factor deficiency, persons with hemophilia have a bleeding disorder because their blood does not clot properly. 
+                                    The severity of hemophilia is determined by the clotting factor level; the lower the level the more likely bleeding will occur. 
+                                    Persons with hemophilia typically bleed into their joints, muscles, and sometime internal organs.
                                     <br/><br/>
-                                    According to the US Centers for Disease Control and Prevention (CDC), hemophilia occurs in approximately 1 in 5,617 live male births. 
-                                    There are between 30,000 – 33,000 males with hemophilia in the US*.  
-                                    More than half of people diagnosed with hemophilia A have the severe form. 
-                                    Hemophilia A is four times as common as hemophilia B. Hemophilia affects all races and ethnic groups.
-                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a</a><br/><br/><br/>                                
+                                    <Row>
+                                        <Col>
+                                            Hemophilia results from mutations or changes in the genes that encode FVIII or FIX. 
+                                            The mutated gene leads to decreased production of the clotting factor, or prevent the clotting factor from working properly. 
+                                            While it is usually inherited from parents to children, about 1/3 of cases have no prior family history. 
+                                            Both FVIII and FIX genes are located on the X chromosome. 
+                                            Males have only one X chromosome, while females have two X chromosomes. 
+                                            The X chromosome contains many genes that are not present on the Y chromosome, which means that males have only one copy of most of the genes on the X chromosome, while females have two copies. 
+                                            Hemophilia results when males inherit an X chromosome with a defect FVIII or FIX gene.  
+                                            Hemophilia is therefore a “sex-linked” disease and almost always occurs in males. 
+                                            Females can have hemophilia too but it is quite rare; they need to have both X chromosomes with defective FVIII or FIX genes. 
+                                            When females inherit only one X chromosome with the defective FVIII or FIX gene, they are referred to as “carriers”. 
+                                            Carriers typically do not have bleeding symptoms, but can pass on the affected X chromosome to their children.
+                                        </Col>
+                                        <Col>
+                                            <img alt="" src="/hemophilia.png" style={{width: '100%'}}></img>
+                                        </Col>
+                                    </Row>
+                                    
+                                    <br/><br/>
+                                    Hemophilia affects about 1 in 5617 live male births, with hemophilia A about 4 times more common as hemophilia B. 
+                                    This translates to about 400 boys born with hemophilia A and about 100 boys born with hemophilia B each year. 
+                                    Rarely hemophilia can be an acquired (develops later in life), due to autoimmune antibodies directed against FVIII or FIX. 
+                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a</a>
+                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/>                                
                                 
-                                <b>Hemophilia B:</b><br/>
+                                {/* <b>Hemophilia B:</b><br/>
                                     Hemophilia B, also called factor IX (FIX) deficiency or Christmas disease, is a genetic disorder caused by missing or defective factor IX, a clotting protein. 
                                     Although it is passed down from parents to children, about 1/3 of cases are caused by a spontaneous mutation, a change in a gene.
                                     <br/><br/>
                                     According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. 
                                     There are about 20,000 people with hemophilia in the US. 
                                     All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.
-                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/>                                
+                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/> */}
+                                                                
                                 
                                 <b>Von Willebrand disease:</b><br/>
-                                    Von Willebrand disease (VWD) is an inheritable bleeding disorder. 
-                                    Many different proteins are needed to make a person’s blood clot successfully. 
-                                    People with VWD are either missing or low in the clotting protein von Willebrand factor (VWF) – or it doesn’t work as it’s supposed to. 
-                                    For a person to make a successful clot, VWF binds to factor VIII (8), another clotting protein, and platelets in blood vessel walls. 
-                                    This process will help form a platelet plug during the clotting process. 
-                                    People with VWD are not able to form this platelet plug, or it will take longer to form. 
-                                    The condition is named after Finnish physician Erik von Willebrand, who first described it in the 1920s.
+                                    Von Willebrand disease (vWD) is another common inherited bleeding disorder due to deficiency of function von Willebrand factor (vWF). 
+                                    Similar to hemophilia, persons with vWD have a bleeding disorder because their blood does not clot properly, and the severity is determined by the vWF level. 
+                                    vWF binds to clotting factor VIII in blood, and helps platelets bind to each other and to injured blood vessel wall for form the platelet plug to stop bleeding. 
+                                    Persons with vWD typically bleed from their nose (epistaxis), gums (gingival bleeding), or into their skin (bruises or hematomas); 
+                                    affected women typically have heavy menstrual bleeding (menorrhagia). 
                                     <br/><br/>
-                                    VWD is the most common bleeding disorder, affecting up to 1% of the US population – or approximately 1 in every 100 people. 
-                                    It occurs equally in men and women. However, women may be more symptomatic due to heavy menstrual bleeding (periods). 
-                                    VWD occurs equally across all races and ethnicities.
+                                    vWD results from mutations or changes in the gene that encode vWF. 
+                                    The mutated gene leads to decreased production of vWF (type 1: mild deficiency, type 3: complete absence), or prevent the clotting factor from working properly (type 2). 
+                                    vWD mutations can be either dominant (only requires one copy of the mutated gene to have disease), or recessive (requires both copies of the mutated gene to have disease), and affects both males and females. 
+                                    Some patients have lower than normal vWF levels due to having blood type O or other reasons; 
+                                    their vWF levels are not low enough to be diagnosed with vWD, but they may still be at risk for bleeding due to the low vWF level. 
+                                    Rarely, vWF can be decreased due to consumption from structural heart disease or having autoimmune antibodies directed against vWF.
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease">https://www.hemophilia.org/bleeding-disorders-a-z/types/von-willebrand-disease</a><br/><br/><br/>                                
                                 
                                 <b>Other clotting factor deficiencies:</b><br/>
@@ -88,14 +113,16 @@ export default class Home extends Component {
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies">https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies</a><br/><br/><br/>                                 
                                 
                                 <b>Congenital platelet disorders:</b><br/>
-                                    Platelets play an important role in blood clotting, so when a person has a low number of platelets, too many platelets or their platelets don’t work the way they should, they have a platelet disorder. 
-                                    People with platelet disorders take longer to stop bleeding.
+                                    In addition to clotting factors, tiny blood cells called platelets also play an important role in making a blood clot to stop bleeding. 
+                                    When a blood vessel is injured and blood is leaking out, platelets will attach to the injured blood vessel wall and to each other to plug up the site of injury. 
+                                    Patients could have a bleeding disorder due to not having enough platelets (thrombocytopenia), or having platelets that do not function properly (qualitative platelet defects). 
+                                    Patients with bleeding due to a platelet problem typically have bleeding from their nose (epistaxis), gums (gingival bleeding), or have excessive bruises (ecchymoses); 
+                                    females with platelet problems could have heavy menstrual bleeding (menorrhagia).  
                                     <br/><br/>
-                                    Platelets are tiny, irregularly shaped blood cell pieces (called fragments) that play an important role in the making of blood clots. 
-                                    When an injury occurs and a blood clot is needed, the platelets become sticky and help plug the site of the injury. 
-                                    They attract other proteins needed in the clotting process and they help form a stable clot. 
-                                    There are several ways that platelets may not work properly, which result in platelet disorders. 
-                                    Some platelet disorders are not fully understood and may result in a diagnosis of an "unspecified platelet disorder."
+                                    Thrombocytopenia can be due to the immune system destroying the platelets (immune thrombocytopenic purpura), 
+                                    liver disease, enlarged spleen, many medications, or bone marrow diseases such as aplastic anemia, leukemia or myelodysplastic syndrome. 
+                                    Qualitative platelet defects is often due to medication effects (antiplatelets such as aspirin and clopidogrel, antidepressants such as SSRI, supplements such as fish oil and gingko), 
+                                    or rarely due to a congenital disorder (Glanzmann’s thrombasthenia, Bernard-Soulier, storage pool disorders, and others). 
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/inherited-platelet-disorders">https://www.hemophilia.org/bleeding-disorders-a-z/types/inherited-platelet-disorders</a><br/><br/><br/> 
                                 
                                 <b>Additional Resources:</b><br/>
