@@ -9,21 +9,21 @@ import Home from './home';
 // import Landmarks from './landmarks';
 // import LandmarkPage from './landmarkPage';
 
+/**
+ * Copyright (c) 2021
+ *
+ * @summary For setting up REST routing in the future; currently unused
+ * @author Ethan Shen <ethanshen1214@gmail.com>
+ *
+ * Created at     : 2021-07-12 
+ * Last modified  : 2021-10-06
+ */
+
 
 export default function Routes() {
     return( //router component that controls which page is loaded
         <Switch>
-            {/* <Route path="/about" component={About} /> */}
-
-            {/* <Route path="/countries" exact component={Countries}/>
-            <Route path="/countries/:country_name" component={CountryPage}/>
-
-            <Route path="/cities" exact component={Cities}/>
-            <Route path="/cities/:city_name" component={CityPage}/>
-
-            <Route path="/landmarks" exact component={Landmarks}/>
-            <Route path="/landmarks/:landmark_name" component={LandmarkPage}/> */}
-            
+            {/* placeholder for expansion in the future */}
             <Route path="/" component={Home} />
         </Switch>
     )

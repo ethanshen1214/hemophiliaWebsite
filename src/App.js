@@ -1,3 +1,13 @@
+/**
+ * Copyright (c) 2021
+ *
+ * @summary App container for Hemophilia Website. Contains header and footer. Also has code setup for routing in the future; currently unused
+ * @author Ethan Shen <ethanshen1214@gmail.com>
+ *
+ * Created at     : 2021-07-12 
+ * Last modified  : 2021-10-06
+ */
+
 import React, {Component} from 'react';
 import { Navbar, Jumbotron, Container, Row, Col, } from 'react-bootstrap';
 import { HashRouter as Router} from 'react-router-dom';
@@ -14,7 +24,6 @@ class App extends Component {
               <Navbar className="color-nav" variant="dark">
                 <Navbar.Brand>
                 {' '}
-                  
                   <div style={{display: "flex", alignItems: "center"}}>
                     <a href = "https://www.utsouthwestern.edu/" style={{marginLeft: "15%", marginRight: "50px"}}>
                       <img
@@ -22,8 +31,6 @@ class App extends Component {
                         src="/logo1.png"
                         width="250"
                         height="50"
-                        // hspace="130"
-                        
                         className="d-inline-block align-top"
                       /> 
                   </a>
@@ -44,9 +51,6 @@ class App extends Component {
                           <img
                             alt=""
                             src="/bloodLogo2.png"
-                            //width="250"
-                            //height="50"
-                            // hspace="130"
                             style={{marginLeft: "16%", marginRight: "50px", marginTop: "20px"}}
                             className="d-inline-block align-top"
                           />{' '}
@@ -70,10 +74,7 @@ class App extends Component {
                             8:00 am - 5:00 pm<br/>
                           </p>
                         </Col>
-
                       </Row>
-                    
-                        
                     </Container>
             </Jumbotron>
           </div>

@@ -1,3 +1,13 @@
+/**
+ * Copyright (c) 2021
+ *
+ * @summary Main entrance point for the app (created from react boilerplate code)
+ * @author Ethan Shen <ethanshen1214@gmail.com>
+ *
+ * Created at     : 2021-07-12 
+ * Last modified  : 2021-10-06
+ */
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';

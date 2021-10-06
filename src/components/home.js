@@ -1,20 +1,26 @@
+/**
+ * Copyright (c) 2021
+ *
+ * @summary Main page content for Hemophilia department at UT Southwestern Medical School
+ * @author Ethan Shen <ethanshen1214@gmail.com>
+ *
+ * Created at     : 2021-07-12 
+ * Last modified  : 2021-10-06
+ */
+
 import React, {Component} from 'react';
 import '../App.css';
 import './home.css';
 import { Container, Row, Col, Tabs, Tab } from 'react-bootstrap';
 
 
-//https://i.pinimg.com/originals/c9/9d/1b/c99d1b83118fc881c9a84e7797a4a0c4.jpg
 export default class Home extends Component {
     render() {  //landing page
 
         return (
-            
             <div>
                 <Container>
                     <Col md={{ span: 10, offset: 1 }}>
-                    {/* <br/> */}
-                    {/* <h1>North Texas Comprehensive Hemophilia Treatment Center - Adult Program</h1> */}
                     <br/>
                     <Tabs defaultActiveKey="general" id="uncontrolled-tab-example">
                         <Tab eventKey="general" title="General">
@@ -77,16 +83,7 @@ export default class Home extends Component {
                                     Rarely hemophilia can be an acquired (develops later in life), due to autoimmune antibodies directed against FVIII or FIX. 
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-a</a>
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/>                                
-                                
-                                {/* <b>Hemophilia B:</b><br/>
-                                    Hemophilia B, also called factor IX (FIX) deficiency or Christmas disease, is a genetic disorder caused by missing or defective factor IX, a clotting protein. 
-                                    Although it is passed down from parents to children, about 1/3 of cases are caused by a spontaneous mutation, a change in a gene.
-                                    <br/><br/>
-                                    According to the US Centers for Disease Control and Prevention, hemophilia occurs in approximately 1 in 5,000 live births. 
-                                    There are about 20,000 people with hemophilia in the US. 
-                                    All races and ethnic groups are affected. Hemophilia B is four times less common than hemophilia A.
-                                <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b">https://www.hemophilia.org/bleeding-disorders-a-z/types/hemophilia-b</a><br/><br/><br/> */}
-                                                                
+                                             
                                 
                                 <b>Von Willebrand disease:</b><br/>
                                     Von Willebrand disease (vWD) is another common inherited bleeding disorder due to deficiency of function von Willebrand factor (vWF). 
@@ -107,9 +104,6 @@ export default class Home extends Component {
                                     The process of forming a blood clot to stop bleeding is called hemostasis, and involves many different blood proteins called clotting factors. 
                                     A patient could have a bleeding disorder due to deficiency or defect of one or more of the other clotting factors other than factor VIII, factor IX, or von Willebrand factor.  
                                     At our HTC, we also have patients with problems with their fibrinogen, factor VII, or factor XI. All of these are rare disorders. 
-                                    {/* <br/><br/>
-                                    Blood clotting is a complex process, involving many different proteins, called factors, each of which plays a different role in the blood clotting process. 
-                                    Factor deficiencies are defined by which specific clotting protein in the blood protein is low, missing or doesn't work properly. */}
                                 <br/><a href = "https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies">https://www.hemophilia.org/bleeding-disorders-a-z/types/other-factor-deficiencies</a><br/><br/><br/>                                 
                                 
                                 <b>Congenital platelet disorders:</b><br/>
@@ -268,26 +262,6 @@ export default class Home extends Component {
                                     He also holds a B.S. degree, with honors, in biological sciences from Stanford University.
                                 </Col>
                             </Row>
-                            {/* <br/>
-                            <hr></hr>
-                            <br/>
-                            <Row>
-                                <Col>
-                                    Dr. Rambally is originally from Canada, but has called Dallas her home for many years. 
-                                    She received her B.S. in Biochemistry from Southern Methodist University in Dallas, and then went on to medical school at UT Southwestern Medical Center (UTSW). 
-                                    She completed her hematology and medical oncology fellowship at Baylor College of Medicine in Houston, where she developed a strong background in general medical oncology, benign and malignant hematology. 
-                                    She was drawn back to UTSW because she enjoys teaching, has an interest in research, and wants to be a part of the long-standing academic excellence which has been a tradition at UTSW. 
-                                    She currently specializes in benign and malignant hematologic disorders. Her clinical practice emphasizes patient and family-centered care. 
-                                    She was included in D Magazine's Best Doctors list for 2018.
-                                </Col>
-                                <Col>
-                                    <div className="text-right">
-                                        <img alt="" src = '/rambally-siayareh.jpg' width="200"/>
-                                        <h4>Natalie Bavli, M.D.</h4>
-                                        <p><br/></p>
-                                    </div>
-                                </Col>
-                            </Row> */}
                         </Tab>
                         <Tab eventKey="location" title="Location">
                             <Row>
@@ -325,7 +299,6 @@ export default class Home extends Component {
                                     </div>
                                 </Col>
                             </Row>
-                            
                         </Tab>
                         <Tab eventKey="otherResources" title="Other Resources">
                             <br/>
@@ -341,11 +314,8 @@ export default class Home extends Component {
                         </Tab>
                     </Tabs> 
                     </Col>
-                    
                 </Container>
             </div>
-            
-            
         );
     }
 }
