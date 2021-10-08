@@ -246,10 +246,26 @@ export default class Home extends Component {
                             <br/>
                             <Row>
                                 <Col>
-                                    <img alt="" src = '/shen-yu.jpg' width="200"/>
-                                    <h4>Yu-Min Shen, M.D.</h4>
+                                    <img alt="" src = '/NatalieBavli.jpg' width="200"/>
+                                    <h4>Natalie Bavli, M.D.</h4>
                                     <p><br/></p>
                                 </Col>
+                                <Col>
+                                    Natalie Bavli, M.D., is a facuty member in the Department of Internal Medicine at UT Southwestern Medical Center. 
+                                    She specializes in nonmalignant hematology with a particular focus on anemias, hemostasis and thrombosis, and platelet disorders.
+                                    Dr. Bavli earned her medical degree at Tufts University School of Medicine. 
+                                    She completed her residency at Beth Israel Deaconess Medical Center, a Harvard Medical School teaching hospital in Boston, 
+                                    where she was selected for the Clinician Educator Track, and was recognized for her compassion by being inducted into the Gold Humanism Honor Society. 
+                                    She then completed advanced fellowship training in hematology at UT Southwestern.
+                                    Dr. Bavli serves as an associate editor for theMednet, a physician-only community for answers to clinical questions in medicine. 
+                                    She is passionate about medical education and was selected for the American Society of Hematology Medical Educators Institute. 
+                                    She is involved in the education of medical students, residents, and fellows in training.
+                                </Col>
+                            </Row>
+                            <br/>
+                            <hr></hr>
+                            <br/>
+                            <Row>
                                 <Col>
                                     Yu-Min Shen, M.D., is a Professor in the Department of Internal Medicine at UT Southwestern Medical Center.
                                     Recognized as the regional expert in coagulation disorders, Dr. Shen is a nonmalignant hematologic disorders specialist whose areas of clinical expertise include bleeding and clotting disorders, hemostasis, and thrombosis.
@@ -260,6 +276,13 @@ export default class Home extends Component {
                                     He is a member of professional organizations that include the American Society of Hematology, International Society on Thrombosis and Haemostasis, and Hemophilia and Thrombosis Research Society.
                                     Dr. Shen earned his medical degree at the University of California, San Diego School of Medicine. He completed both an internal medicine residency and a hematology/ oncology fellowship at UT Southwestern.
                                     He also holds a B.S. degree, with honors, in biological sciences from Stanford University.
+                                </Col>
+                                <Col>
+                                    <div className="text-right">
+                                        <img alt="" src = '/shen-yu.jpg' width="200"/>
+                                        <h4>Yu-Min Shen, M.D.</h4>
+                                        <p><br/></p>
+                                    </div>
                                 </Col>
                             </Row>
                         </Tab>
